@@ -1,0 +1,19 @@
+Some FLV/SorensonSpark/MP3 files do not play properly
+=====================================================
+
+This particular file, encoded with ffmpeg Mac GUI version, doesn't play initially when used with FlowPlayer.
+
+http://www.presentingperl.org/opw2012/doing-the-jitterbug/Jonathan-Leto-Doing-the-Jitterbug.flv
+
+The odd thing is that if you pause the player, and then press the play button again, the picture actually appears.
+
+I'm using version 3.2.7 of FlowPlayer on Firefox 9 on Windows 7.
+
+You can git clone a test repo from this address:
+
+https://github.com/robinsmidsrod/presentingperl-video-player-fix
+
+Hope you'll be able to fix this problem soon.
+
+Regards,
+Robin Smidsrød
