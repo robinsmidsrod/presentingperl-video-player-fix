@@ -1,7 +1,7 @@
 Some FLV/SorensonSpark/MP3 files do not play properly
 =====================================================
 
-This particular file, encoded with ffmpeg Mac GUI version, doesn't play initially when used with FlowPlayer.
+This particular file, encoded with ffmpeg Mac GUI version, doesn't play video (only audio) initially when used with FlowPlayer.
 
 http://www.presentingperl.org/opw2012/doing-the-jitterbug/Jonathan-Leto-Doing-the-Jitterbug.flv
 
