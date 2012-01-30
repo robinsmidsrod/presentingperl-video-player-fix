@@ -113,5 +113,13 @@ h3.video_license {
 }
 
 a.bucket-link .bucket-name {
-  font-size:12pt;
+    font-size:12pt;
+}
+
+a.video.flowplayer {
+    display: block;
+    text-align: center;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-position: center;
 }
